@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#fff</color>
+    <color name="default_background">#E6EEF4</color>
+    <color name="btn_bg">#F08C35</color>
+    <color name="btn_capstone_bg">#DA2F55</color>
+
+</resources>
